@@ -6,7 +6,7 @@
 <div align="center" style="margin-top: 20px">
 <p align="center"> 
   <a href="https://linkedin.com/in/faizal-ahmed-devs"> 
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&Cursor=none" alt="LinkedIn"/> 
   </a> 
   <a href="https://instagram.com/faizal.ahmed.dev"> 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> 
