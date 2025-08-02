@@ -1,5 +1,4 @@
-<img width="1863" height="986" alt="image" src="https://github.com/user-attachments/assets/0630a234-98c5-47cd-b949-b6406eefe0eb" /><p align="center" >
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+a+Faizal+Ahmed;I'm+a+Frontend+Developer;React+%7C+Next.js+%7C+Tailwind;MongoDB+%7C+NextAuth;Let's+build+something+awesome!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+a+Faizal+Ahmed;I'm+a+Frontend+Developer;React+%7C+Next.js+%7C+Tailwind;MongoDB+%7C+NextAuth;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
 
   
@@ -23,7 +22,7 @@
 <table> 
   <tr> 
     <td width="50%"> 
-      <h3 align="center">Project 1</h3> 
+      <h3 align="center">Blog App</h3> 
       <div align="center"> 
         <a href="(https://blogapp-menn-stack.netlify.app)"> 
         <img alt="image" src="https://github.com/user-attachments/assets/272e69ee-6117-459f-8bc2-9f0303f38373" width="400" height="250"/> 
