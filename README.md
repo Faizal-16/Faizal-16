@@ -1,47 +1,134 @@
-# 💫 About Me:
-🔭 I’m currently studying Bachelor on Laxmi Institute of Technology<br>
-🌱 I’m currently learning React JS, Express JS, Mongo DB<br>
-💬 I Love to Code, Play Video Games, Sports Like Badminton
+<p align="center" >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+a+Faizal+Ahmed;I'm+a+Frontend+Developer;React+%7C+Next.js+%7C+Tailwind;MongoDB+%7C+NextAuth;Let's+build+something+awesome!" alt="Typing SVG" />
+</p>
+
+  
+## 🌟 Let's Connect
+<div align="center" style="margin-top: 20px">
+<p align="center"> 
+  <a href="https://linkedin.com/in/faizal-ahmed-devs"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a> 
+  <a href="https://instagram.com/faizal.ahmed.dev"> 
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> 
+  </a>
+  <a href="mailto:faizalahmed.devs@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/> 
+  </a>
+</p>
+</div>
+
+## 🚀 Featured Projects
+<div align="center" style="margin-top: 50px">
+<table> 
+  <tr> 
+    <td width="50%"> 
+      <h3 align="center">Project 1</h3> 
+      <div align="center"> 
+        <a href="#"> 
+          <img src="https://placehold.co/600x400/3b82f6/white?text=Project+1" width="400" height="250"/> 
+        </a> 
+        <p><em>Tech: Next.js, MongoDB, NextAuth</em></p> 
+        <p>✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p> 
+      </div> 
+    </td>   
+    <td width="50%"> 
+      <h3 align="center">Project 2</h3> 
+      <div align="center"> 
+        <a href="#"> 
+          <img src="https://placehold.co/600x400/8b5cf6/white?text=Project+2" width="400" height="250"/> 
+        </a> 
+        <p><em>Tech: React, Tailwind</em></p> 
+        <p>✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p> 
+      </div> 
+    </td> 
+  </tr>   
+  <tr> 
+    <td width="50%"> 
+      <h3 align="center">Project 3</h3> 
+      <div align="center"> 
+        <a href="#"> 
+          <img src="https://placehold.co/600x400/3b82f6/white?text=Project+3" width="400" height="250"/> 
+        </a> 
+        <p><em>Tech: Next.js, MongoDB, NextAuth</em></p> 
+        <p>✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p> 
+      </div> 
+    </td>   
+    <td width="50%"> 
+      <h3 align="center">Project 4</h3> 
+      <div align="center"> 
+        <a href="#"> 
+          <img src="https://placehold.co/600x400/8b5cf6/white?text=Project+4" width="400" height="250"/> 
+        </a> 
+        <p><em>Tech: React, Tailwind</em></p> 
+        <p>✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p> 
+      </div> 
+    </td> 
+  </tr>   
+  
+</table>
+</div>
+
+## 🚀 Tech Stack & Tools
+
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
+    <!-- Frontend Card -->
+    <div style="background: #0f172a; padding: 1rem; border-radius: 8px; min-width: 200px;">
+      <h3>Frontend</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
+        <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" height="24">
+        <img src="https://img.shields.io/badge/Next.js-000a19?logo=next.js" alt="Next.js" height="24">
+      </div>
+    </div>
+    <!-- Styling Card -->
+    <div style="background: #0f172a; padding: 1rem; border-radius: 8px; min-width: 200px;">
+      <h3>Styling</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
+        <img src="https://img.shields.io/badge/Tailwind-000a19?logo=tailwind-css" alt="Tailwind" height="24">
+        <img src="https://img.shields.io/badge/Framer-0055FF?logo=framer" alt="Framer" height="24">
+      </div>
+    </div>
+    <!-- Backend Card -->
+    <div style="background: #0f172a; padding: 1rem; border-radius: 8px; min-width: 200px;">
+      <h3>Backend</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
+        <img src="https://img.shields.io/badge/MongoDB-000a19?logo=mongodb" alt="MongoDB" height="24">
+        <img src="https://img.shields.io/badge/NextAuth-000a19?logo=next.js" alt="NextAuth" height="24">
+      </div>
+    </div>
+    <!-- Tools Card -->
+    <div style="background: #0f172a; padding: 1rem; border-radius: 8px; min-width: 200px;">
+      <h3>Tools</h3>
+      <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; justify-content: center;">
+        <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code" alt="VSCode" height="24">
+        <img src="https://img.shields.io/badge/Git-fff?logo=git" alt="Git" height="24">
+      </div>
+    </div>
+
+  </div>
+</div>
 
 
-# Tech Stack:
-<h1>🖥️ Frontend</h1>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+## 🎨 My Dev Setup
 
-<h1>🎨 UI Frameworks & Styling</h1>
+```mermaid
+graph LR
+    Basics[HTML/CSS/JS] --> React
+    React --> Next
+    Next --> Deployment[Netlify]
+    Node[Node Basics] --> Next
+    Next --> Fullstack[Fullstack Apps]
+```
 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+## 📊 GitHub Analytics
+<!--
+<p align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=8&theme=radical"/> 
+</p> -->
 
-<h1>🛠️ Backend</h1>
-
-![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-
-<h1>🗄️ Databases</h1>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-<h1>🛡️ Authentication & Security</h1>
-
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-  <h1>📍 On Basic Level</h1>
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Faizal-16&icon=1&color=3)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizal-1112&theme=rogue&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="800"/>
+</p>
