@@ -24,7 +24,7 @@
     <td width="50%"> 
       <h3 align="center">Blog App</h3> 
       <div align="center"> 
-        <a href="(https://blogapp-menn-stack.netlify.app)"> 
+        <a href="https://blogapp-menn-stack.netlify.app"> 
         <img alt="image" src="https://github.com/user-attachments/assets/272e69ee-6117-459f-8bc2-9f0303f38373" width="400" height="250"/> 
         </a> 
         <p><em>Tech: Next.js, MongoDB, NextAuth</em></p> 
