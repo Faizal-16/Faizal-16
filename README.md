@@ -17,55 +17,109 @@
 </p>
 </div>
 
-## 🚀 Featured Projects
-<div align="center" style="margin-top: 50px">
-<table> 
-  <tr> 
-    <td width="50%"> 
-      <h3 align="center">Blog App</h3> 
-      <div align="center"> 
-        <a href="https://blogapp-menn-stack.netlify.app"> 
-        <img alt="image" src="https://github.com/user-attachments/assets/272e69ee-6117-459f-8bc2-9f0303f38373" width="400" height="250"/> 
-        </a> 
-        <p><em>Tech: Next.js, MongoDB, NextAuth</em></p> 
-        <p>✨ Create Blogs | ✨ See Blogs Globaly </p> 
-      </div> 
-    </td>   
-    <td width="50%"> 
-      <h3 align="center">Project 2</h3> 
-      <div align="center"> 
-        <a href="#"> 
-          <img src="https://placehold.co/600x400/8b5cf6/white?text=Project+2" width="400" height="250"/> 
-        </a> 
-        <p><em>Tech: React, Tailwind</em></p> 
-        <p>✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p> 
-      </div> 
-    </td> 
-  </tr>   
-  <tr> 
-    <td width="50%"> 
-      <h3 align="center">Project 3</h3> 
-      <div align="center"> 
-        <a href="#"> 
-          <img src="https://placehold.co/600x400/3b82f6/white?text=Project+3" width="400" height="250"/> 
-        </a> 
-        <p><em>Tech: Next.js, MongoDB, NextAuth</em></p> 
-        <p>✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p> 
-      </div> 
-    </td>   
-    <td width="50%"> 
-      <h3 align="center">Project 4</h3> 
-      <div align="center"> 
-        <a href="#"> 
-          <img src="https://placehold.co/600x400/8b5cf6/white?text=Project+4" width="400" height="250"/> 
-        </a> 
-        <p><em>Tech: React, Tailwind</em></p> 
-        <p>✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p> 
-      </div> 
-    </td> 
-  </tr>   
+<div align="center" style="margin: 50px 0;">
+  <h1 align="center" style="font-size: 2.5rem; margin-bottom: 40px; color: #2f81f7;">✨ Featured Projects</h1>
   
-</table>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; width: 90%; max-width: 1200px; margin: 0 auto;">    
+    <!-- Project 1 -->
+    <div style="background: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 20px; transition: transform 0.3s ease;">
+      <h3 style="color: #58a6ff; margin-top: 0;">Blog App</h3>
+      <a href="https://blogapp-menn-stack.netlify.app">
+        <img 
+          src="https://github.com/user-attachments/assets/272e69ee-6117-459f-8bc2-9f0303f38373" 
+          alt="Blog App" 
+          style="width: 100%; border-radius: 8px; border: 1px solid #30363d; aspect-ratio: 16/9; object-fit: cover;"
+        />
+      </a>
+      <div style="margin: 15px 0; display: flex; flex-wrap: wrap; gap: 8px;">
+        <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">Next.js</span>
+        <span style="background: #023430; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">MongoDB</span>
+        <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">NextAuth</span>
+      </div>
+      <p style="color: #8b949e; margin-bottom: 15px;">✨ Create Blogs | ✨ See Blogs Globally</p>
+      <a 
+        href="https://blog-app-next-mern.netlify.app" 
+        style="display: inline-block; background: #238636; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500;"
+        onmouseover="this.style.backgroundColor='#2ea043'" 
+        onmouseout="this.style.backgroundColor='#238636'"
+      >
+        View Project
+      </a>
+    </div>    
+    <!-- Project 2 -->
+    <div style="background: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 20px; transition: transform 0.3s ease;">
+      <h3 style="color: #58a6ff; margin-top: 0;">Project 2</h3>
+      <a href="#">
+        <img 
+          src="https://placehold.co/600x400/8b5cf6/white?text=Project+2" 
+          alt="Project 2" 
+          style="width: 100%; border-radius: 8px; border: 1px solid #30363d; aspect-ratio: 16/9; object-fit: cover;"
+        />
+      </a>
+      <div style="margin: 15px 0; display: flex; flex-wrap: wrap; gap: 8px;">
+        <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">React</span>
+        <span style="background: #0e4d8e; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">Tailwind</span>
+      </div>
+      <p style="color: #8b949e; margin-bottom: 15px;">✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p>
+      <a 
+        href="#" 
+        style="display: inline-block; background: #1f6feb; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500;"
+        onmouseover="this.style.backgroundColor='#2a7aef'" 
+        onmouseout="this.style.backgroundColor='#1f6feb'"
+      >
+        Coming Soon
+      </a>
+    </div>    
+    <!-- Project 3 -->
+    <div style="background: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 20px; transition: transform 0.3s ease;">
+      <h3 style="color: #58a6ff; margin-top: 0;">Project 3</h3>
+      <a href="#">
+        <img 
+          src="https://placehold.co/600x400/3b82f6/white?text=Project+3" 
+          alt="Project 3" 
+          style="width: 100%; border-radius: 8px; border: 1px solid #30363d; aspect-ratio: 16/9; object-fit: cover;"
+        />
+      </a>
+      <div style="margin: 15px 0; display: flex; flex-wrap: wrap; gap: 8px;">
+        <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">Next.js</span>
+        <span style="background: #023430; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">MongoDB</span>
+        <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">NextAuth</span>
+      </div>
+      <p style="color: #8b949e; margin-bottom: 15px;">✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p>
+      <a 
+        href="#" 
+        style="display: inline-block; background: #1f6feb; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500;"
+        onmouseover="this.style.backgroundColor='#2a7aef'" 
+        onmouseout="this.style.backgroundColor='#1f6feb'"
+      >
+        Coming Soon
+      </a>
+    </div>    
+    <!-- Project 4 -->
+    <div style="background: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 20px; transition: transform 0.3s ease;">
+      <h3 style="color: #58a6ff; margin-top: 0;">Project 4</h3>
+      <a href="#">
+        <img 
+          src="https://placehold.co/600x400/8b5cf6/white?text=Project+4" 
+          alt="Project 4" 
+          style="width: 100%; border-radius: 8px; border: 1px solid #30363d; aspect-ratio: 16/9; object-fit: cover;"
+        />
+      </a>
+      <div style="margin: 15px 0; display: flex; flex-wrap: wrap; gap: 8px;">
+        <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">React</span>
+        <span style="background: #0e4d8e; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">Tailwind</span>
+      </div>
+      <p style="color: #8b949e; margin-bottom: 15px;">✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p>
+      <a 
+        href="#" 
+        style="display: inline-block; background: #1f6feb; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500;"
+        onmouseover="this.style.backgroundColor='#2a7aef'" 
+        onmouseout="this.style.backgroundColor='#1f6feb'"
+      >
+        Coming Soon
+      </a>
+    </div>
+  </div>
 </div>
 
 ## 🚀 Tech Stack & Tools
