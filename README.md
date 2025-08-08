@@ -32,8 +32,8 @@
         />
       </a>
       <div style="margin: 15px 0; display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">Next.js</span>
-        <span style="background: #023430; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">MongoDB</span>
+        <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">Next.js | </span>
+        <span style="background: #023430; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">MongoDB | </span>
         <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">NextAuth</span>
       </div>
       <p style="color: #8b949e; margin-bottom: 15px;">✨ Create Blogs | ✨ See Blogs Globally</p>
@@ -57,7 +57,7 @@
         />
       </a>
       <div style="margin: 15px 0; display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">React</span>
+        <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">React | </span>
         <span style="background: #0e4d8e; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">Tailwind</span>
       </div>
       <p style="color: #8b949e; margin-bottom: 15px;">✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p>
@@ -81,8 +81,8 @@
         />
       </a>
       <div style="margin: 15px 0; display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">Next.js</span>
-        <span style="background: #023430; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">MongoDB</span>
+        <span style="background: #238636; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">Next.js | </span>
+        <span style="background: #023430; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">MongoDB | </span>
         <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">NextAuth</span>
       </div>
       <p style="color: #8b949e; margin-bottom: 15px;">✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p>
@@ -106,7 +106,7 @@
         />
       </a>
       <div style="margin: 15px 0; display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">React</span>
+        <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">React | </span>
         <span style="background: #0e4d8e; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">Tailwind</span>
       </div>
       <p style="color: #8b949e; margin-bottom: 15px;">✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p>
