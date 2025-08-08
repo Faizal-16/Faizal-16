@@ -1,3 +1,4 @@
+<p align="center"> 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+a+Faizal+Ahmed;I'm+a+Frontend+Developer;React+%7C+Next.js+%7C+Tailwind;MongoDB+%7C+NextAuth;Let's+build+something+awesome!" alt="Typing SVG" />
 </p>
 
