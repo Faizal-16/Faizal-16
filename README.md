@@ -49,32 +49,32 @@
     </div>    
     <!-- Project 2 -->
     <div style="background: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 20px; transition: transform 0.3s ease;">
-      <h3 style="color: #58a6ff; margin-top: 0;">Project 2</h3>
+      <h3 style="color: #58a6ff; margin-top: 0;">Organic Harvest</h3>
       <a href="#">
         <img 
-          src="https://placehold.co/600x400/8b5cf6/white?text=Project+2" 
+          src="https://github.com/user-attachments/assets/02439850-aa04-4af8-9d0b-843c11f432ac"
           alt="Project 2" 
           style="width: 100%; border-radius: 8px; border: 1px solid #30363d; aspect-ratio: 16/9; object-fit: cover;"
         />
       </a>
       <div style="margin: 15px 0; display: flex; flex-wrap: wrap; gap: 8px;">
-        <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">React | </span>
-        <span style="background: #0e4d8e; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">Tailwind</span>
+        <span style="background: #1f6feb; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">Next JS | </span>
+        <span style="background: #0e4d8e; color: white; padding: 3px 8px; border-radius: 20px; font-size: 0.8rem;">CSS</span>
       </div>
       <p style="color: #8b949e; margin-bottom: 15px;">✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p>
       <a 
-        href="#" 
-        style="display: inline-block; background: #1f6feb; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500;"
-        onmouseover="this.style.backgroundColor='#2a7aef'" 
-        onmouseout="this.style.backgroundColor='#1f6feb'"
+        href="https://blog-app-next-mern.netlify.app" 
+        style="display: inline-block; background: #238636; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500;"
+        onmouseover="this.style.backgroundColor='#2ea043'" 
+        onmouseout="this.style.backgroundColor='#238636'"
       >
-        Coming Soon
+        View Project
       </a>
     </div>    
     <!-- Project 3 -->
     <div style="background: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 20px; transition: transform 0.3s ease;">
       <h3 style="color: #58a6ff; margin-top: 0;">Project 3</h3>
-      <a href="#">
+      <a href="https://organichravest.netlify.app">
         <img 
           src="https://placehold.co/600x400/3b82f6/white?text=Project+3" 
           alt="Project 3" 
@@ -88,7 +88,7 @@
       </div>
       <p style="color: #8b949e; margin-bottom: 15px;">✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p>
       <a 
-        href="#" 
+        href="https://organichravest.netlify.app" 
         style="display: inline-block; background: #1f6feb; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500;"
         onmouseover="this.style.backgroundColor='#2a7aef'" 
         onmouseout="this.style.backgroundColor='#1f6feb'"
