@@ -52,7 +52,7 @@
       <h3 style="color: #58a6ff; margin-top: 0;">Organic Harvest</h3>
       <a href="https://organichravest.netlify.app">
         <img 
-          src="https://github.com/user-attachments/assets/02439850-aa04-4af8-9d0b-843c11f432ac"
+          src="https://github.com/user-attachments/assets/07d65b68-4b27-42f2-82ce-e5978039b518"
           alt="Project 2" 
           style="width: 100%; border-radius: 8px; border: 1px solid #30363d; aspect-ratio: 16/9; object-fit: cover;"
         />
