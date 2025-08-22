@@ -50,7 +50,7 @@
     <!-- Project 2 -->
     <div style="background: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 20px; transition: transform 0.3s ease;">
       <h3 style="color: #58a6ff; margin-top: 0;">Organic Harvest</h3>
-      <a href="#">
+      <a href="https://organichravest.netlify.app">
         <img 
           src="https://github.com/user-attachments/assets/02439850-aa04-4af8-9d0b-843c11f432ac"
           alt="Project 2" 
@@ -63,7 +63,7 @@
       </div>
       <p style="color: #8b949e; margin-bottom: 15px;">✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p>
       <a 
-        href="https://blog-app-next-mern.netlify.app" 
+        href="https://organichravest.netlify.app" 
         style="display: inline-block; background: #238636; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500;"
         onmouseover="this.style.backgroundColor='#2ea043'" 
         onmouseout="this.style.backgroundColor='#238636'"
