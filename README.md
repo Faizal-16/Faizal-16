@@ -25,9 +25,9 @@
     <!-- Project 1 -->
     <div style="background: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 20px; transition: transform 0.3s ease;">
       <h3 style="color: #58a6ff; margin-top: 0;">Blog App</h3>
-      <a href="https://blogapp-menn-stack.netlify.app">
+      <a href="#">
         <img 
-          src="https://github.com/user-attachments/assets/272e69ee-6117-459f-8bc2-9f0303f38373" 
+          src="https://placehold.co/600x400/3b8FF6/white?text=Project+1" 
           alt="Blog App" 
           style="width: 100%; border-radius: 8px; border: 1px solid #30363d; aspect-ratio: 16/9; object-fit: cover;"
         />
@@ -39,7 +39,7 @@
       </div>
       <p style="color: #8b949e; margin-bottom: 15px;">✨ Create Blogs | ✨ See Blogs Globally</p>
       <a 
-        href="https://blog-app-next-mern.netlify.app" 
+        href="#" 
         style="display: inline-block; background: #238636; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500;"
         onmouseover="this.style.backgroundColor='#2ea043'" 
         onmouseout="this.style.backgroundColor='#238636'"
@@ -50,9 +50,9 @@
     <!-- Project 2 -->
     <div style="background: #0d1117; border-radius: 10px; border: 1px solid #30363d; padding: 20px; transition: transform 0.3s ease;">
       <h3 style="color: #58a6ff; margin-top: 0;">Organic Harvest</h3>
-      <a href="https://organichravest.netlify.app">
+      <a href="#">
         <img 
-          src="https://github.com/user-attachments/assets/07d65b68-4b27-42f2-82ce-e5978039b518"
+          src="https://placehold.co/600x400/3b82f6/white?text=Project+2"
           alt="Project 2" 
           style="width: 100%; border-radius: 8px; border: 1px solid #30363d; aspect-ratio: 16/9; object-fit: cover;"
         />
@@ -63,7 +63,7 @@
       </div>
       <p style="color: #8b949e; margin-bottom: 15px;">✨ Feature 1 | ✨ Feature 2 | ✨ Feature 3</p>
       <a 
-        href="https://organichravest.netlify.app" 
+        href="#" 
         style="display: inline-block; background: #238636; color: white; padding: 8px 16px; border-radius: 6px; text-decoration: none; font-weight: 500;"
         onmouseover="this.style.backgroundColor='#2ea043'" 
         onmouseout="this.style.backgroundColor='#238636'"
