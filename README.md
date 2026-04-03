@@ -183,6 +183,3 @@ graph LR
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=8&theme=radical"/> 
 </p> -->
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faizal-16&theme=rogue&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="800"/>
-</p>
